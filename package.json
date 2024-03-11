@@ -1,6 +1,6 @@
 {
   "name": "flix1234",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "flix1234",
   "main": "./src/index.js",
   "scripts": {
